@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+  "server": 
+    "ip": "Buildboys.aternos.me",
+    "port": 57372,
     "version": "",
     "try-creative": false
   },
